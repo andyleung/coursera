@@ -13,4 +13,10 @@ git push -u origin master
 git remote add origin https://github.com/andyleung/coursera.git
 git push -u origin master
 
+Adding a program
+
+git add prog2
+git status
+git commit -m "add prog2"
+git push -u origin master
 
